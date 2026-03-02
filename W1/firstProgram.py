@@ -1,3 +1,7 @@
+"""
+Author: Michael Wiseman
+Date: 3/2/2026
+"""
 print("Hello World!\n")
 user_color = input("What is your favorite color: ")
 
