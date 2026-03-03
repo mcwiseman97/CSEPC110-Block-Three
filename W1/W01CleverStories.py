@@ -3,10 +3,8 @@ Author: Michael Wiseman
 Date: 3/2/2026
 """
 
-# Used \n to make a blank lines instead of print()
-# Added .upper() to emphasize the exclamation
-# Made verb a list to avoid variable name confusion
-
+# Used \n to make blank lines instead of print() (lines: 10, 19, 23)
+# Made verb a list to avoid variable name confusion (lines: 13, 15, 16)
 
 verb = ["","",""]
 print("Please enter the following:\n")
